@@ -1,4 +1,11 @@
-# Análisis de Inventario con Alertas
+﻿# Análisis de Inventario con Alertas
+
+> ### 🚀 Probar la app en vivo
+>
+> **https://inventario-alertas.streamlit.app**
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://inventario-alertas.streamlit.app)
+
 
 Dashboard interactivo de control de inventario para tiendas y pequeños negocios. Detecta productos por agotarse, calcula cuándo reabastecer y mide el capital "congelado" en stock. Construido en Python con Streamlit y Plotly, acepta archivos Excel (.xlsx) o CSV con detección automática de columnas.
 
