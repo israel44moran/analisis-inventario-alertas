@@ -111,4 +111,4 @@ El **pedido sugerido** se calcula para llevar el stock hasta el máximo (si est�
 
 ## Autor
 
-Israel Morán
+Israel Moran
